@@ -6,3 +6,7 @@
 
 matplotlib.pyplot
 matplotlib.ticker (MultipleLocator, FormatStrFormatter,AutoMinorLocator)
+
+
+../integrale/romberg_integrale - Метод Ромберга
+
